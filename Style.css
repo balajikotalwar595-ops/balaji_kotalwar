@@ -5,6 +5,7 @@
   box-sizing: border-box;
 }
 
+
 body{
     overflow-x: hidden; 
     background-color: #f9edf5;
@@ -573,4 +574,7 @@ h1 {
   .footer-links {
     justify-content: center;
   }
+}
+html{
+  scroll-behavior: smooth;
 }
